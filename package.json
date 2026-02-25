@@ -1,0 +1,19 @@
+{
+  "name": "1039-deployment-guide",
+  "version": "1.0.0",
+  "description": "1039市场采购 × TikTok爆款文案库 - 永久网站部署指南",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8081",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "1039市场采购",
+    "TikTok",
+    "部署指南",
+    "Vercel",
+    "GitHub"
+  ],
+  "author": "Manus AI",
+  "license": "MIT"
+}
